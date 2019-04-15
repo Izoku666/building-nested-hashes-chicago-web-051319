@@ -5,15 +5,3 @@ def first_challenge
      :capulet => { }
     }
 end
-
-
-def second_challenge
-  
-end
-
-
-def third_challenge
-end
-
-def fourth_challenge
-end
