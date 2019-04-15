@@ -4,8 +4,7 @@ def first_challenge
      :montague => {
        :patriarch => {},
        :matriarch => {},
-       :hero{},
-       :hero_friends[{}{}]
+       :hero{}
      },
      
      :capulet => { }
