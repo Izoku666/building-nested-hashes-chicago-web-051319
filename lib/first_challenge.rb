@@ -14,5 +14,5 @@ def first_challenge
        :hero{},
        :hero_friends[{}{}]
      }
-     }
+    }
 end
