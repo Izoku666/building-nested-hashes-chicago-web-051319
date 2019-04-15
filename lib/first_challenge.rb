@@ -3,7 +3,6 @@ def first_challenge
      
      :montague => {
        :patriarch => {}
-       :matriarch => {}
      },
      
      :capulet => { }
