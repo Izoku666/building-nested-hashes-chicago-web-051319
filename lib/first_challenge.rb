@@ -7,3 +7,5 @@ def first_challenge
 end
 
 def second_challenge
+  
+end
