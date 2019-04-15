@@ -6,6 +6,14 @@ def first_challenge
     }
 end
 
+
 def second_challenge
-  
+  epic_tragedy[montague]
+end
+
+
+def third_challenge
+end
+
+def fourth_challenge
 end
